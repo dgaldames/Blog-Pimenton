@@ -1,0 +1,141 @@
+* .cuerpo{
+    margin: 0px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.divizq{
+    margin-top: 70px;
+    margin-left: 250px;
+}
+
+.divizq a{
+    color: black;
+    text-decoration: none;
+    margin: 0px 15px;
+}
+
+.navder{
+    text-align: end;
+    margin-right: 250px;
+    margin-top: 77px;
+}
+
+.buttons a{
+    color: black;
+    text-decoration: none;
+    margin: 0px 25px;
+}
+
+.titu{
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    padding: 12px 15px;
+    margin: 0px 570px;
+    letter-spacing: 7px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    background-color: white;
+}
+
+.foto{
+    margin-left: 265px;
+    margin-top: 50px;
+    width: 990px;
+    height: 300px;
+}
+
+.tifobus input{
+    margin-left: 500px;
+    width: 500px;
+    height: 40px;
+}
+
+.subtitulo{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 0.85em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.articulo1{ 
+    margin-left: 300px;
+    margin-right: 400px;
+    }
+
+.articulo1 img{
+    width: 380px;
+    height: 270px;
+}
+
+.articulo1 input{
+    position: relative;
+    bottom: 190px;
+    left: 40px;
+}
+
+.articulo1 a{
+    position: relative;
+    bottom: 220px;
+    right: 75px;
+    text-decoration: none;
+}
+
+.articulo1 h3{
+    position: relative;
+    left: 420px;
+    bottom: 200px;
+    font-size: 1.4em;
+}
+
+.articulo1 p{
+    position: relative;
+    left: 420px;
+    bottom: 200px;
+}
+
+.articulo2{
+    margin-left: 300px;
+    margin-right: 400px;
+    }
+
+.articulo2 img{
+    width: 380px;
+    height: 270px;
+}
+
+.articulo2 input{
+    position: relative;
+    bottom: 190px;
+    left: 40px;
+}
+
+.articulo2 a{
+    position: relative;
+    bottom: 220px;
+    right: 75px;
+    text-decoration: none;
+}
+
+.articulo2 h3{
+    position: relative;
+    left: 420px;
+    bottom: 200px;
+    font-size: 1.4em;
+}
+
+.articulo2 p{
+    position: relative;
+    left: 420px;
+    bottom: 200px;
+}
